@@ -1,0 +1,86 @@
+@font-face{
+	font-family: fuente;
+	src: url(fuentes/CenturyGothic-Bold.ttf);
+}
+header{
+    border-radius: 22px;
+}
+.barra-url{
+    border-radius: 8px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #59594F;
+}
+.barra-icono{
+    padding: 15px; 
+    margin-left: 40px;
+}
+.barra-menu{
+    border-radius: 8px;
+    background-color:  #18778C; 
+}
+.iconos{
+    margin-right: 80px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+#reguistro{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.iconos2{
+    padding: 15px;
+    align-items: center;
+    
+}
+#futbol{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#basket{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#tenis{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#golf{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#beisbol{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#rugby{
+    margin-right: 70px;
+    cursor: pointer;
+}
+#mas{
+    display: flex;
+    justify-content: right;
+    cursor: pointer;
+}
+.cuerpo{
+    background-color:#59594F;
+    border-radius: 5px;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+}
+.banner{
+    object-fit: contain;
+}
+#banner1{
+    background-color: black;
+}
+.footer{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+
+
